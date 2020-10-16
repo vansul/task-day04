@@ -1,5 +1,5 @@
 import React from 'react';
-import './Login.css'
+import './Login.css';
 
 const Login = () => {
   return (
@@ -14,7 +14,7 @@ const Login = () => {
             </div>
             <div>
               <button type="button" className="ghost-round full-width">
-                Create Account
+                Login
               </button>
             </div>
           </div>

@@ -17,7 +17,7 @@ const Register = () => {
           </div>
           <div>
             <button type="button" className="ghost-round full-width">
-              Login
+              Create Account
             </button>
           </div>
         </div>
